@@ -1,0 +1,13 @@
+{
+  "Username": "standard_user",
+  "Password": "secret_sauce",
+  "Wrongusername": "esraa",
+  "Os": "Android",
+"Name": "Esraa",
+  "Wait": "com.swaglabsmobileapp.MainActivity",
+  "Version": "11",
+  "Automator":"UiAutomator2",
+  "Firstname": "Esraa",
+  "Lastname": "Mabed",
+  "Code": "123"
+}
